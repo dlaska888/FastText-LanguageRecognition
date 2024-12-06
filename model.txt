@@ -1,0 +1,106 @@
+__label__polish "Nie mogę uwierzyć, ile pracy mam do zrobienia dzisiaj!" wykrzyknął prezydent Biden.
+__label__polish "Nie mogę uwierzyć, jak ciężki jest ten test!" powiedziała studentka.
+__label__polish "Czy naprawdę muszę iść na tę nudną konferencję?" zastanawiał się menedżer.
+__label__polish "Nie mogę znaleźć mojego ulubionego kubka!" zmartwiła się pani domu.
+__label__polish "Nie mogę uwierzyć, jak szybko upłynął ten rok!" stwierdziła nauczycielka.
+__label__english "I can't believe how much work I have to do today!" President Biden exclaimed.
+__label__english "I can't believe how difficult this test is!" said the student.
+__label__english "Do I really have to go to this boring conference?" wondered the manager.
+__label__english "I can't find my favorite mug!" lamented the housewife.
+__label__english "I can't believe how quickly this year has gone by!" noted the teacher.
+__label__english This is an example of English text.
+__label__french "Je n'arrive pas à croire combien de travail j'ai à faire aujourd'hui!" s'exclama le président Biden.
+__label__french "Je n'arrive pas à croire à quel point ce test est difficile!" a dit l'étudiant.
+__label__french "Est-ce que je dois vraiment aller à cette conférence ennuyeuse?" s'est demandé le manager.
+__label__french "Je ne trouve pas mon mug préféré!" a déploré la femme au foyer.
+__label__french "Je n'arrive pas à croire à quelle vitesse cette année est passée!" a remarqué l'enseignante.
+__label__french Voici un exemple de texte en français.
+__label__german Hier ist ein Beispiel für deutschen Text.
+__label__spanish Aquí hay un ejemplo de texto en español.
+__label__english This is an example of English text. Here is another example of English text. And here is one more example of English text.
+__label__french Voici un exemple de texte en français. Voici un autre exemple de texte en français. Et voici encore un autre exemple de texte en français.
+__label__german Hier ist ein Beispiel für deutschen Text. Hier ist ein weiteres Beispiel für deutschen Text. Und hier ist noch ein weiteres Beispiel für deutschen Text.
+__label__spanish Aquí hay un ejemplo de texto en español. Aquí hay otro ejemplo de texto en español. Y aquí hay un ejemplo más de texto en español.
+__label__english This is an example of English text. Here is another example of English text. And here is one more example of English text. This is yet another example of English text. And here is one more example of English text.
+__label__french Voici un exemple de texte en français. Voici un autre exemple de texte en français. Et voici encore un autre exemple de texte en français. Voici un autre exemple de texte en français. Et voici encore un autre exemple de texte en français.
+__label__german Hier ist ein Beispiel für deutschen Text. Hier ist ein weiteres Beispiel für deutschen Text. Und hier ist noch ein weiteres Beispiel für deutschen Text. Hier ist noch ein weiteres Beispiel für deutschen Text. Und hier ist noch ein weiteres Beispiel für deutschen Text.
+__label__spanish Aquí hay un ejemplo de texto en español. Aquí hay otro ejemplo de texto en español. Y aquí hay un ejemplo más de texto en español.
+__label__english President Biden was having a conversation with a chicken. "Why do you always cross the road?" he asked. The chicken replied, "I'm just trying to get to the other side, Mr. President."
+__label__french Le président Biden avait une conversation avec un poulet. "Pourquoi traverses-tu toujours la route?" demanda-t-il. Le poulet répondit: "Je suis simplement en train d'essayer de passer de l'autre côté, Monsieur le Président."
+__label__german Präsident Biden hatte ein Gespräch mit einem Hühner. "Warum überqueren Sie immer die Straße?", fragte er. Das Hühner antwortete: "Ich versuche nur, auf die andere Seite zu kommen, Herr Präsident."
+__label__spanish El presidente Biden estaba teniendo una conversación con un pollo. "¿Por qué siempre cruzas la calle?", le preguntó. El pollo respondió: "Sólo estoy tratando de llegar al otro lado, señor presidente."
+__label__polish "Dlaczego muszę wstać tak wcześnie?" narzekał student.
+__label__polish "Nie wiem, jak mogę to wszystko ogarnąć przed terminem!" zastanawiała się pracowniczka biura.
+__label__polish "To ciasto smakuje niesamowicie!" zachwycił się kucharz.
+__label__polish "Czy ktoś widział moje klucze?" spytał zdesperowany kierowca.
+__label__polish "Zawsze marzyłam o wyjeździe do Paryża!" powiedziała młoda dziewczyna.
+__label__english "Why do I have to wake up so early?" complained the student.
+__label__english "I don't know how I can get all of this done before the deadline!" wondered the office worker.
+__label__english "This cake tastes amazing!" exclaimed the chef.
+__label__english "Has anyone seen my keys?" asked the desperate driver.
+__label__english "I've always dreamed of going to Paris!" said the young girl.
+__label__french "Pourquoi dois-je me lever si tôt?" se plaignit l'étudiant.
+__label__french "Je ne sais pas comment je vais tout terminer avant la date limite!" se demanda l'employée de bureau.
+__label__french "Ce gâteau a un goût incroyable!" s'exclama le chef.
+__label__french "Quelqu'un a vu mes clés?" demanda le conducteur désespéré.
+__label__french "J'ai toujours rêvé d'aller à Paris!" dit la jeune fille.
+__label__german "Warum muss ich so früh aufstehen?" beschwerte sich der Student.
+__label__german "Ich weiß nicht, wie ich das alles vor der Deadline schaffen soll!" fragte sich die Büroangestellte.
+__label__german "Dieser Kuchen schmeckt fantastisch!" rief der Koch aus.
+__label__german "Hat jemand meine Schlüssel gesehen?" fragte der verzweifelte Fahrer.
+__label__german "Ich habe immer davon geträumt, nach Paris zu reisen!" sagte das junge Mädchen.
+__label__spanish "¿Por qué tengo que levantarme tan temprano?" se quejó el estudiante.
+__label__spanish "No sé cómo voy a terminar todo esto antes de la fecha límite!" se preguntó la trabajadora de oficina.
+__label__spanish "¡Este pastel sabe increíble!" exclamó el chef.
+__label__spanish "¿Alguien ha visto mis llaves?" preguntó el conductor desesperado.
+__label__spanish "¡Siempre he soñado con ir a París!" dijo la joven.
+__label__polish "Dlaczego zawsze wszystko zostaje na ostatnią chwilę?" zastanawiał się pracownik.
+__label__polish "To najpiękniejszy zachód słońca, jaki widziałam!" zachwyciła się turystka.
+__label__polish "Nie mogę uwierzyć, że zapomniałem o rocznicy!" westchnął mąż.
+__label__polish "Kto by pomyślał, że gotowanie może być takie relaksujące?" powiedział początkujący kucharz.
+__label__polish "Czy ktoś jeszcze słyszał ten dziwny dźwięk?" spytał zaniepokojony sąsiad.
+__label__english "Why does everything always get left until the last minute?" wondered the employee.
+__label__english "This is the most beautiful sunset I've ever seen!" exclaimed the tourist.
+__label__english "I can't believe I forgot our anniversary!" sighed the husband.
+__label__english "Who would have thought cooking could be so relaxing?" said the beginner chef.
+__label__english "Did anyone else hear that strange noise?" asked the concerned neighbor.
+__label__french "Pourquoi tout est toujours laissé à la dernière minute?" se demanda l'employé.
+__label__french "C'est le plus beau coucher de soleil que j'aie jamais vu!" s'exclama la touriste.
+__label__french "Je n'arrive pas à croire que j'ai oublié notre anniversaire!" soupira le mari.
+__label__french "Qui aurait pensé que cuisiner pouvait être si relaxant?" dit le chef débutant.
+__label__french "Quelqu'un d'autre a entendu ce bruit étrange?" demanda le voisin inquiet.
+__label__german "Warum bleibt immer alles bis zur letzten Minute liegen?" fragte sich der Angestellte.
+__label__german "Das ist der schönste Sonnenuntergang, den ich je gesehen habe!" rief die Touristin aus.
+__label__german "Ich kann nicht glauben, dass ich unseren Hochzeitstag vergessen habe!" seufzte der Ehemann.
+__label__german "Wer hätte gedacht, dass Kochen so entspannend sein kann?" sagte der angehende Koch.
+__label__german "Hat noch jemand dieses seltsame Geräusch gehört?" fragte der besorgte Nachbar.
+__label__spanish "¿Por qué todo siempre se deja para el último momento?" se preguntó el empleado.
+__label__spanish "¡Este es el atardecer más hermoso que he visto en mi vida!" exclamó la turista.
+__label__spanish "¡No puedo creer que olvidé nuestro aniversario!" suspiró el esposo.
+__label__spanish "¿Quién hubiera pensado que cocinar podría ser tan relajante?" dijo el chef principiante.
+__label__spanish "¿Alguien más escuchó ese ruido extraño?" preguntó el vecino preocupado.
+__label__polish "Nie mogę uwierzyć, że udało mi się wygrać tę nagrodę!" krzyknął podekscytowany uczestnik.
+__label__polish "To było zdecydowanie najtrudniejsze wyzwanie, z jakim się spotkałem." powiedział sportowiec.
+__label__polish "Kiedy w końcu skończę tę książkę, pójdę spać." postanowił student.
+__label__polish "Nie wiedziałem, że ta roślina jest taka trudna w uprawie." przyznał ogrodnik.
+__label__polish "Dlaczego zawsze zapominam hasła?" narzekał użytkownik.
+__label__english "I can't believe I managed to win this award!" shouted the excited participant.
+__label__english "This was definitely the toughest challenge I've ever faced," said the athlete.
+__label__english "Once I finish this book, I'm going to bed," decided the student.
+__label__english "I didn't know this plant was so hard to grow," admitted the gardener.
+__label__english "Why do I always forget my passwords?" complained the user.
+__label__french "Je n'arrive pas à croire que j'ai réussi à gagner ce prix!" s'exclama le participant excité.
+__label__french "C'était de loin le défi le plus difficile que j'aie jamais relevé," a dit l'athlète.
+__label__french "Une fois que j'aurai fini ce livre, je vais me coucher," décida l'étudiant.
+__label__french "Je ne savais pas que cette plante était si difficile à cultiver," avoua le jardinier.
+__label__french "Pourquoi j'oublie toujours mes mots de passe?" se plaignit l'utilisateur.
+__label__german "Ich kann nicht glauben, dass ich diesen Preis gewonnen habe!" rief der aufgeregte Teilnehmer aus.
+__label__german "Das war definitiv die härteste Herausforderung, der ich je begegnet bin," sagte der Sportler.
+__label__german "Sobald ich dieses Buch beendet habe, gehe ich schlafen," beschloss der Student.
+__label__german "Ich wusste nicht, dass diese Pflanze so schwer zu züchten ist," gab der Gärtner zu.
+__label__german "Warum vergesse ich immer meine Passwörter?" beschwerte sich der Nutzer.
+__label__spanish "¡No puedo creer que haya ganado este premio!" gritó el participante emocionado.
+__label__spanish "Este fue definitivamente el desafío más difícil que he enfrentado," dijo el atleta.
+__label__spanish "Cuando termine este libro, me iré a dormir," decidió el estudiante.
+__label__spanish "No sabía que esta planta era tan difícil de cultivar," admitió el jardinero.
+__label__spanish "¿Por qué siempre olvido mis contraseñas?" se quejó el usuario.
